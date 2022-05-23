@@ -2,7 +2,7 @@ package com.java.introduction;
 
 public class GalToLit {
 	/*
-	 * This program converts gallons to litres
+	 * This program converts gallons to litres.
 	 */
 	
 	public static void main(String[] args) {

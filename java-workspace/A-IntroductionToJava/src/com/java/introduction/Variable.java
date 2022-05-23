@@ -2,7 +2,7 @@ package com.java.introduction;
 
 public class Variable {
 	/*
-	 *  This program demonstrates a variable declaration & assignment
+	 *  This program demonstrates a variable declaration & assignment.
 	 */
 	
 	public static void main(String[] args) {

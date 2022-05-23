@@ -2,7 +2,7 @@ package com.java.introduction;
 
 public class WeightOnMoon {
 	/*
-	 * This program computes effective weight on moon, for a given weight on earth
+	 * This program computes effective weight on moon, for a given weight on earth.
 	 */
 
 	public static void main(String[] args) {
