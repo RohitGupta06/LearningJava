@@ -33,8 +33,8 @@ public class TypeCasting {
 		// double p = 300987415.0;
 		// long q = p; // Error: Cannot convert from double to long
 		
-		int s = 76;
-		// char ch = m; // Error: Cannot convert from int to char (integer variable cannot be assigned)
+		// int s = 76;
+		// char ch = s; // Error: Cannot convert from int to char (integer variable cannot be assigned)
 		char ch = 76; // But we can assign an integer literal directly
 		System.out.println("ch contains "+ch);
 		
