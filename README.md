@@ -25,3 +25,12 @@ A highly resourceful & structured repository for learners out there who want to 
         * TruthTable.java
 
 * Control Statements
+   * UserInput
+      * CharacterInput.java
+   * SelectionStatements
+      * NestedIfElse.java
+      * IfElseIfLadder.java
+      * SwitchCaseBasic.java
+      * SwitchCaseFallThrough.java
+      * SwitchCaseStacking.java
+      * NestedSwitchCaseWithStrings.java
