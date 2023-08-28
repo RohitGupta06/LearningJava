@@ -42,7 +42,9 @@ A highly resourceful & structured repository for learners out there who want to 
         * InfiniteLoops.java
     * JumpStatements
         * Break.java
-        * BreakAsGoto.java
-        * Continue.java 
+        * LabelledBreak1.java
+        * LabelledBreak2.java
+        * Continue.java
+        * LabelledContinue.java
       
      
